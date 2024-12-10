@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Brekkie</string>
+    <string name="default_web_client_id">AIzaSyA-KJVJcidxpLcCwCTbmEcYFQ8u__0uwAM</string>
+    <string name="paragraf">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+    <string name="paragraf2">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+    <string name="paragraf3">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+    <string name="funfact">
+        Sarapan yang sehat dapat meningkatkan konsentrasi dan performa otak hingga 20%! Penelitian menunjukkan bahwa sarapan membantu mengisi kembali glukosa—sumber energi utama untuk otak—setelah semalaman berpuasa. Jadi, jika kamu ingin lebih fokus dan produktif, jangan lewatkan sarapanmu!
+    </string>
+</resources>

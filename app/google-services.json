@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347713780177",
+    "project_id": "project-akhir-2",
+    "storage_bucket": "project-akhir-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347713780177:android:f77ef80f2991d55915c8f0",
+        "android_client_info": {
+          "package_name": "com.example.projectakhirdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347713780177-bsc6l38r583jkd0n3ojcrp29od1ictim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectakhirdashboard",
+            "certificate_hash": "44e21376f73edc30a8957125f461681623507fc6"
+          }
+        },
+        {
+          "client_id": "347713780177-u70ke71oiuk6mp4mmqviipp746rn3kji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-KJVJcidxpLcCwCTbmEcYFQ8u__0uwAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347713780177-u70ke71oiuk6mp4mmqviipp746rn3kji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

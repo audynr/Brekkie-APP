@@ -1,0 +1,13 @@
+{
+  "popularPackages": [
+    {"name": "Paket Tinggi Protein", "price": "Rp 170.000", "imageResId": "ic_protein"},
+    {"name": "Paket Ekonomis", "price": "Rp 120.000", "imageResId": "ic_ekonomis"},
+    {"name": "Paket Lokal", "price": "Rp 135.000", "imageResId": "ic_lokal"},
+    {"name": "Paket Vegetarian", "price": "Rp 140.000", "imageResId": "ic_veg"}
+  ],
+  "economicalPackages": [
+    {"name": "Paket Hemat 1", "price": "Rp 80.000", "imageResId": "ic_protein"},
+    {"name": "Paket Hemat 2", "price": "Rp 95.000", "imageResId": "ic_ekonomis"},
+    {"name": "Paket Hemat 3", "price": "Rp 75.000", "imageResId": "ic_veg"}
+  ]
+}
